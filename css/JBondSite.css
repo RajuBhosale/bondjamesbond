@@ -1,0 +1,17 @@
+﻿#bondlayout {
+    padding-top: 80px;
+}
+#connery, #lazenby, #moore, #dalton, #brosnan, #craig {
+    padding-top: 5px;
+    height:35px;
+    margin:auto;
+}
+#connery.bond .stats, #lazenby.bond .stats, #moore.bond .stats, #dalton.bond .stats, #brosnan.bond .stats, #craig.bond .stats {
+    
+}
+#bondlayout .bond{
+    
+}
+#bondlayout .stats{
+    background-repeat:repeat-x;
+}
